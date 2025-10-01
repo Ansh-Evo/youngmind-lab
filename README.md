@@ -1,5 +1,5 @@
-# Started on - 9/30/2025
-# Young-Innovator-Mind
+# Started on - 1/10/2025
+# youngmind-lab
 
 * A collection of projects, experiments, and innovations by Ansh, documenting my journey as a young innovator, with the goal of creating something meaningful and impactful.
 * I started this journey to explore my curiosity, experiment freely, and document my learning and growth along the way.
